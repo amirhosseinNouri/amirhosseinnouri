@@ -7,6 +7,7 @@
 
 ![React](https://uupload.ir/files/b787_1200px-react-icon.svg.png)
 
+<img src="https://uupload.ir/files/b787_1200px-react-icon.svg.png" alr="react" style="display : inline-block ; width : 30px ; height : 30px;" />
 
 
 <!--
