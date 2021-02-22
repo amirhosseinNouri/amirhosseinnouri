@@ -7,7 +7,20 @@
 
 ![React](https://uupload.ir/files/b787_1200px-react-icon.svg.png)
 
-<img src="https://uupload.ir/files/b787_1200px-react-icon.svg.png" alr="react" style="display : inline-block ; width : 30px ; height : 30px;" />
+<img src="https://uupload.ir/files/b787_1200px-react-icon.svg.png" alr="react" width="50px" style="margin-right: 5px ;"  />       
+    <img src="https://uupload.ir/files/4t8z_redux-283024.png" alr="redux"width="35px" style="margin-right: 5px ;"   />       
+    <img src="https://uupload.ir/files/msl_js.png" alr="js"width="30px" style="margin-right: 5px ;"  />       
+    <img src="https://uupload.ir/files/z29_css.png" alr="css"width="30px" style="margin-right: 5px ;" />       
+    <img src="https://uupload.ir/files/ci4_sass.png" alr="sass"width="45px" style="margin-right: 5px ;"   />       
+    <img src="https://uupload.ir/files/2v7y_html.png" alr="html"width="40px"style="margin-right: 5px ;"  />       
+    <img src="https://uupload.ir/files/v86i_bash.png" alr="bash"width="75px" style="margin-right: 5px ;"   />       
+    <img src="https://uupload.ir/files/4u2o_git.png" alr="git"width="40px" style="margin-right: 5px ;"   />       
+    <img src="https://uupload.ir/files/dx2g_java.png" alr="java"width="35px" style="margin-right: 5px ;"   />       
+    <img src="https://uupload.ir/files/w3kj_1024px-visual_studio_code_1.35_icon.svg.png" alr="vscode"width="35px" style="margin-right: 5px ;"   />       
+    <img src="https://uupload.ir/files/vn47_webpack.png" alr="webpack"width="40px" style="margin-right: 5px ;"  />       
+    <img src="https://uupload.ir/files/2j1g_parcel.png" alr="rarcel"width="40px"style="margin-right: 5px ;"   />       
+
+
 
 
 <!--
