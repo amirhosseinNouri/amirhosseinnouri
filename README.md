@@ -5,9 +5,9 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinnouri&count_private=true&theme=radical" alt="amirhossein" />
 
-<div style="flex: 33.33%; padding: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=amirhosseinnouri&count_private=true&theme=radical" alt="amirhossein" /></div>
-</div>
+![React](https://uupload.ir/files/b787_1200px-react-icon.svg.png)
+
+
 
 <!--
 **amirhosseinNouri/amirhosseinnouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
