@@ -6,7 +6,8 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinnouri&count_private=true&theme=radical" alt="amirhossein" />
 
 
-   <img src="https://uupload.ir/files/b787_1200px-react-icon.svg.png" alr="react" width="50px" style="margin-right: 5px ;"  />       
+   <div>
+<img src="https://uupload.ir/files/b787_1200px-react-icon.svg.png" alr="react" width="50px" style="margin-right: 5px ;"  />       
     <img src="https://uupload.ir/files/4t8z_redux-283024.png" alr="redux"width="35px" style="margin-right: 5px ;"   />       
     <img src="https://uupload.ir/files/msl_js.png" alr="js"width="30px" style="margin-right: 5px ;"  />       
     <img src="https://uupload.ir/files/z29_css.png" alr="css"width="30px" style="margin-right: 5px ;" />       
@@ -19,6 +20,7 @@
     <img src="https://uupload.ir/files/vn47_webpack.png" alr="webpack"width="40px" style="margin-right: 5px ;"  />       
     <img src="https://uupload.ir/files/2j1g_parcel.png" alr="rarcel"width="40px"style="margin-right: 5px ;"   />       
 
+</div>
 
 
 
