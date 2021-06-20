@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amirhossein_nr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirhossein_nr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amirhossein-nouri-5a0231204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirhossein-nouri-5a0231204/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amirhossein-nouri-5a0231204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amirhossein-nouri-5a0231204/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
