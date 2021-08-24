@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirhossein</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">A young passionate Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhosseinnouri&label=Profile%20views&color=0e75b6&style=flat" alt="amirhosseinnouri" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Javascript and Typescript**
 
-- 💬 Ask me about **React and Javascript**
+- 💬 Ask me about **React, Javascript and Typescript**
 
 - 📫 How to reach me **amir.h.nouri2000@gmail.com**
 
