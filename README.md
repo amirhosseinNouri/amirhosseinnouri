@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/amirhossein_nr" target="blank"><img src="https://img.shields.io/twitter/follow/amirhossein_nr?logo=twitter&style=for-the-badge" alt="amirhossein_nr" /></a> </p>
 
-- 🌱 I’m currently learning **React, Javascript, Typescript and Bash Scripting**
+- 🌱 I’m currently learning **Golang and Nextjs**
 
-- 💬 Ask me about **React, Javascript, Docker**
+- 💬 Ask me about **React, Javascript, Docker, Gitlab ci/cd**
 
 - 📫 How to reach me **amir.h.nouri2000@gmail.com**
 
